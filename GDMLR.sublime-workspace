@@ -1,0 +1,397 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"min",
+				"min-width"
+			],
+			[
+				"inlin",
+				"inline-block"
+			],
+			[
+				"tex",
+				"text-align"
+			],
+			[
+				"st",
+				"style\tTag"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"settings":
+			{
+				"buffer_size": 0,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 188.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/Users/mac/Livros/Python ML/python-machine-learning-book-master/README.md",
+		"/Users/mac/Dropbox/Shoptutor/AI/Ai Vision.html",
+		"/Volumes/Berghahn X/Shoptutor/Videos/Produtos/Data/R8-Asus.tsv",
+		"/Users/mac/Downloads/HW1-data.csv",
+		"/Volumes/Berghahn X/Livros/2016/AI/Ray Kurzweil/Torrents/Diamandis, Peter H. & Steven Kotler- Abundance, The Future Is Better Than You Think (audiobook+epub)/data.txt",
+		"/Users/mac/Downloads/subscribers.csv",
+		"/Volumes/Berghahn X/Shoptutor/Videos/Produtos/Data/R7D.tsv",
+		"/Volumes/Berghahn X/Shoptutor/Videos/Produtos/Data/R7AB.tsv",
+		"/Users/mac/Desktop/scracp.html",
+		"/Volumes/Berghahn X/Shoptutor/Videos/Produtos/Data/R5.tsv",
+		"/Volumes/Berghahn X/Shoptutor/Videos/Produtos/V18-Rounds/Notebooks - Lista de modelos - v008 - Gerador-de-videos.tsv",
+		"/Users/mac/Documents/airbnb complain",
+		"/Users/mac/Downloads/limpar/finaleira_12_notebooks.html",
+		"/Users/mac/Dropbox/Beyond",
+		"/Users/mac/Dropbox/Business/MKTAS/Heypeppers/_/credenciais",
+		"/Users/mac/Dropbox/Business/MKTAS/Heypeppers/Dev/AWS/ssh connect",
+		"/Users/mac/Dropbox/Business/MKTAS/Heypeppers/Dev/AWS/Hey Peppers - Dados",
+		"/Users/mac/Dropbox/Business/Emagreca-Motivado/dev/ftp-sync/wp-content/themes/one-child/header.php",
+		"/Users/mac/Dropbox/Business/Emagreca-Motivado/dev/emagrecamotivadosaopaulokey.pem",
+		"/Users/mac/Dropbox/Marcos/pra guardar.txt",
+		"/Users/mac/Downloads/subscribers (1).csv",
+		"/Users/mac/Dropbox/Public/schema-scrap.html",
+		"/Users/mac/Downloads/limpar.txt",
+		"/Users/mac/Dropbox/Shoptutor/Code_brainstorm/Enhanced Ecommerce Tracking.html",
+		"/Users/mac/Desktop/Sublime-Pauta/Comercial.groovy",
+		"/Users/mac/Desktop/Groove.groovy",
+		"/Users/mac/Dropbox/Shoptutor/MKT/benchmark/lista de sites tech que o facebook usa para ver trending topics relevância.txt",
+		"/Users/mac/Dropbox/Shoptutor/MKT/benchmark/lista de sites completa que o facebook usa para ver trending topics relevância.txt",
+		"/Users/mac/Dropbox/Business/Berghahn/AI-Plan.txt",
+		"/Users/mac/Desktop/QA Experiência Assistente",
+		"/Users/mac/Desktop/lista-emails-nike",
+		"/Users/mac/Desktop/lista-emails-varejistas",
+		"/Users/mac/Desktop/NOW",
+		"/Users/mac/Desktop/Amipet",
+		"/Users/mac/Desktop/.htaccess",
+		"/Users/mac/Dropbox/Business/Shoptutor/Code_brainstorm/pods-backup-Tudo",
+		"/Users/mac/Dropbox/Business/Shoptutor/Code_brainstorm/pods-backup-Todos-Pods",
+		"/Users/mac/Dropbox/Business/Shoptutor/Code_brainstorm/pods-backup-TV-Queries",
+		"/Users/mac/Dropbox/Business/Shoptutor/Code_brainstorm/pods-backup-Templates",
+		"/Users/mac/Dropbox/Business/Shoptutor/Code_brainstorm/backup-post-wp",
+		"/Users/mac/Desktop/meta tags Exame.html",
+		"/Users/mac/Documents/Investir.goovy",
+		"/Users/mac/Desktop/id",
+		"/Users/mac/Downloads/members_export_cae89edd87.csv",
+		"/Users/mac/Downloads/visitors-tudocelular.csv",
+		"/Users/mac/Library/Application Support/Google/Chrome/Profile 1/Extensions/pokjppmpccggefgcenpngoleemajgnmo/0.3.0_0/styles/main.css",
+		"/Users/mac/Library/Application Support/Google/Chrome/Profile 1/Extensions/pokjppmpccggefgcenpngoleemajgnmo/0.3.0_0/_metadata/verified_contents.json",
+		"/Users/mac/Library/Application Support/Google/Chrome/Profile 1/Extensions/pokjppmpccggefgcenpngoleemajgnmo/0.3.0_0/_metadata/computed_hashes.json",
+		"/Users/mac/Library/Application Support/Google/Chrome/Profile 1/Extensions/pokjppmpccggefgcenpngoleemajgnmo/0.3.0_0/background.html",
+		"/Users/mac/Library/Application Support/Google/Chrome/Profile 1/Extensions/pokjppmpccggefgcenpngoleemajgnmo/0.3.0_0/manifest.json",
+		"/Users/mac/Downloads/visitors-techtudo-2016-07-1024pages.csv",
+		"/Users/mac/Desktop/ads.rxml",
+		"/Users/mac/Desktop/forum notes",
+		"/Users/mac/Dropbox/Business/Shoptutor/FTP_Sync_shoptutor/wp-content/plugins/ddpc_shoptutor/facebook_og_tags.php"
+	],
+	"find":
+	{
+		"height": 29.0
+	},
+	"find_in_files":
+	{
+		"height": 99.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"order",
+			"In",
+			"Data Layer Variable",
+			"\"",
+			"\n",
+			"UN48J5500AG",
+			"tv Samsung",
+			"samsung",
+			"48J5500",
+			"B",
+			"K",
+			"(",
+			"\n\n",
+			",",
+			"Exper",
+			",",
+			"Samsung",
+			"https://www.youtube.com/watch?v=",
+			",",
+			"Note",
+			"https://youtu.be/",
+			"Vaio",
+			"Asus",
+			"Not-to-render",
+			"Aspire",
+			"-",
+			"Aspire",
+			",",
+			"Notebook",
+			"\">",
+			">",
+			"<a href",
+			"\"",
+			"<span class=\"vm-video-info-and-settings yt-uix-button-menu-item\" href=\"/edit?o=U&amp;feature=vm&amp;video_id=",
+			"href=\"/edit?o=U&amp;feature=vm&amp;video_id=",
+			"\"",
+			"<div class=\"vm-video-title-container yt-uix-tooltip\" title=\"",
+			"</li><!-- end ngRepeat: videoItem in ctrl.videoItems --><li ",
+			"<li ",
+			"</li>",
+			"<li>",
+			"<LI>",
+			"\n\n",
+			"\n  \n",
+			"\n\n",
+			"              \n",
+			"\n\n",
+			", ",
+			"(",
+			"Lenovo",
+			"\n\n",
+			"Acer",
+			"\n\n",
+			"dell",
+			"Template_RENDER",
+			"Not-to-render",
+			"-",
+			"/Intel",
+			"http://",
+			"\n\n",
+			", ",
+			"Not-to-render\t",
+			"(",
+			"<a  href=\"",
+			"”",
+			"rel=”nofollow”",
+			"rel=",
+			"</strong>",
+			"<strong>",
+			"L4",
+			"Notebook product pages",
+			";G4;",
+			"TV product",
+			"b4",
+			"201701",
+			"kindle",
+			"href=\"",
+			"assistente-de-compras",
+			"amp;productType=",
+			"amp",
+			"href=",
+			"title=\"Leitor digital ",
+			"leitor digital",
+			"alt=\"leitor digital ",
+			"leitor digital",
+			"</a>",
+			"id=\"#",
+			"style=\"color:#0099FF;text-transform: none",
+			"h2",
+			">",
+			"<li>",
+			"kindle-oasis-2",
+			"data-list-position=\"1",
+			"blog-link",
+			"voyage",
+			"=",
+			"3g",
+			"id=\"",
+			"aqui",
+			"(",
+			"\")",
+			"=",
+			" BR",
+			"\n",
+			"|",
+			"</",
+			"<h3 class=\"branco f25 pf-bold\">",
+			"seguro",
+			"\"",
+			"style=",
+			"\t",
+			"<div class=\"lplh-42\" style=\"text-align: right;\">",
+			" ",
+			"- ",
+			" ",
+			"- ",
+			"\t",
+			",",
+			"\t",
+			"+",
+			"\t",
+			",",
+			"(",
+			"/",
+			"\"",
+			"/*wo",
+			"width",
+			" height: 30px"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 0,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Text/Plain text.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 29.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "GDMLR.sublime-project",
+	"replace":
+	{
+		"height": 54.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 150.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
